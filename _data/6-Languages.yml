@@ -1,0 +1,7 @@
+subject: Languages
+listing-order: 6
+icon: "/assets/img/globe.svg"
+contents:
+  - title: "<img src='assets/img/gb.svg' width=20 height=20 /> English (*Professional*)"
+  - title: "<img src='assets/img/gr.svg' width=20 height=20 /> Greek (*Native*)"
+  
