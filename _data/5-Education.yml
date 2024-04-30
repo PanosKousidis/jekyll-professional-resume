@@ -2,7 +2,9 @@ subject: Education
 listing-order: 5
 icon: "/assets/img/graduation-cap.svg"
 contents:
-  - title: "MSc Business Systems Analysis and Design <br /><img src='assets/img/Arms_of_City,_University_of_London.png' width=30 />*City, University of London, UK*"
+  - title: "MSc Business Systems Analysis and Design <br />*City, University of London, UK*"
+    icon: "<img src='assets/img/Arms_of_City,_University_of_London.png' width=60 />"
     date: Feb. 2019
-  - title: "BSc Digital Systems <br /><img src='assets/img/UNIPI.jpg' width=30 />*University of Piraeus, Greece*"
+  - title: "BSc Digital Systems <br />*University of Piraeus, Greece*"
+    icon: "<img src='assets/img/UNIPI.jpg' width=60 />"
     date: Sep. 2015
